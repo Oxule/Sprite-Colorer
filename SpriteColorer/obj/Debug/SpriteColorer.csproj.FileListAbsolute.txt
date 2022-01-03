@@ -1,0 +1,7 @@
+C:\Projects\SpriteColorer\SpriteColorer\bin\Debug\SpriteColorer.exe
+C:\Projects\SpriteColorer\SpriteColorer\bin\Debug\SpriteColorer.pdb
+C:\Projects\SpriteColorer\SpriteColorer\obj\Debug\SpriteColorer.csproj.AssemblyReference.cache
+C:\Projects\SpriteColorer\SpriteColorer\obj\Debug\SpriteColorer.csproj.SuggestedBindingRedirects.cache
+C:\Projects\SpriteColorer\SpriteColorer\obj\Debug\SpriteColorer.csproj.CoreCompileInputs.cache
+C:\Projects\SpriteColorer\SpriteColorer\obj\Debug\SpriteColorer.exe
+C:\Projects\SpriteColorer\SpriteColorer\obj\Debug\SpriteColorer.pdb
